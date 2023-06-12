@@ -1,0 +1,3 @@
+/Users/jerrysu/CLionProjects/First-C-Program/cmake-build-debug/CMakeFiles/First_C_Program.dir
+/Users/jerrysu/CLionProjects/First-C-Program/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jerrysu/CLionProjects/First-C-Program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
